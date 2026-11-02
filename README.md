@@ -14,6 +14,6 @@ The site is plain static HTML and is published with GitHub Pages from the `main`
 
 ## Before store submission
 
-- Confirm the operator name and add INN/OGRNIP and legal address if required by the store.
+- Operator name and OGRNIP are filled in. Add INN and legal address if required by the store.
 - Confirm the contact email.
 - If advertising, analytics or other network SDKs are added, update both language versions before enabling them.
